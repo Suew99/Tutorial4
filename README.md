@@ -1,4 +1,3 @@
-# This is Tutorial 4
+# conflict part 2
 
-This tutorial we are learning to create and merge branches as well as including the untracked files into
-our local repo
+This tutorial we are learning to create and merge branches as well as including the untracked files into our local repo
